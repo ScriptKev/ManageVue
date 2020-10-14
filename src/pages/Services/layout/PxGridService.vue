@@ -1,5 +1,5 @@
 <template>
-  <v-container style="height: 600px;" class="rounded-lg grey lighten-5">
+  <v-container class="rounded-lg grey lighten-5">
     <v-row >
       <slot></slot>
     </v-row>

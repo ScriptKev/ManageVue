@@ -3,7 +3,7 @@
     :items="items"
     :item-height="75"
     max-width="100%"
-    max-height="520"
+    max-height="460"
   >
     <template v-slot="{ item }" subheader>
       <v-list-item @click="">
